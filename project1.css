@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+}
+
+h1{
+    background-color: lightgreen;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    background-color: bisque;
+    margin: 0px;
+    border-top: 1px solid white;
+}
+
+li{
+    list-style: none;
+    border-left: 1px solid gray;
+    padding: 5px;
+}
+
+.an{
+    text-decoration: none;
+    color: lightgray;
+}
