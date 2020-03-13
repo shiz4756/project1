@@ -87,18 +87,6 @@ body{
     margin-left: 10px;
 }
 
-.alink1{
-    text-align: center;
-    color: lightblue;
-    padding: 15px;
-}
-
-.alink2{
-    text-align: center;
-    color: lightblue;
-    padding: 0px;
-}
-
 #bottom{
     background-color: dimgrey;
     height: 300px;
