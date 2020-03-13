@@ -16,6 +16,13 @@ body{
     width: 100%;
 }
 
+#h-1{
+    background-color: lightgreen;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
 .body1{
     margin: 0;
     width: 15%;
@@ -31,13 +38,6 @@ body{
     margin: 0;
     width: 15%;
     background-color: lightgray;
-}
-
-#h-1{
-    background-color: lightgreen;
-    color: white;
-    text-align: center;
-    margin: 0;
 }
 
 #h-2{
@@ -60,15 +60,15 @@ body{
     margin-top: 5px;
 }
 
+#p1{
+    margin-left: 5px;
+}
+
 #img1{
     float: right;
     width: 300px;
     height: 200px;
     margin-right: 5px;
-}
-
-#p1{
-    margin-left: 5px;
 }
 
 #img2{
@@ -86,16 +86,8 @@ body{
     margin-left: 10px;
 }
 
-.alink1{
-    text-align: center;
-    color: lightblue;
-    padding: 15px;
-}
-
-.alink2{
-    text-align: center;
-    color: lightblue;
-    padding: 0px;
+#a-1{
+    text-decoration: none;
 }
 
 #bottom{
@@ -119,7 +111,6 @@ body{
     text-decoration: none;
 }
 
-.a2:hover{
+a:hover{
     color: yellow;
 }
-

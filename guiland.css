@@ -1,11 +1,18 @@
 html{
-    margin: 0;
     width: 100%;
+    margin: 0;
 }
 
 body{
+    width: 100%;
     margin: 0;
-    width: 100%
+}
+
+#h-1{
+    background-color: lightgreen;
+    color: white;
+    text-align: center;
+    margin: 0;
 }
 
 .bodysheet{
@@ -31,13 +38,6 @@ body{
     margin: 0;
     width: 15%;
     background-color: lightgray;
-}
-
-#h-1{
-    background-color: lightgreen;
-    color: white;
-    text-align: center;
-    margin: 0;
 }
 
 #h-2{
@@ -78,24 +78,13 @@ body{
     margin-left: 5px;
 }
 
-#h-4{
-    color: pink;
-    font-size: 20px;
-    margin-top: 5px;
-    margin-bottom: 0;
-    margin-left: 10px;
+#p1-1{
+    color: violet;
+    margin-left: 5px;
 }
 
-.alink1{
-    text-align: center;
-    color: lightblue;
-    padding: 15px;
-}
-
-.alink2{
-    text-align: center;
-    color: lightblue;
-    padding: 0px;
+#a-1{
+    text-decoration: none;
 }
 
 #bottom{
@@ -119,7 +108,7 @@ body{
     text-decoration: none;
 }
 
-.a2:hover{
+a:hover{
     color: yellow;
 }
 
