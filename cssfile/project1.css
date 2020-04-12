@@ -15,7 +15,7 @@ body{
     margin: 0;
     width: 100%;
     height: 1000px;
-    background-image: url(image/tourism.jpg);
+    background-image: url(../image/index/tourism.jpg);
     background-size: cover;
     opacity: 0.5;
     position: absolute;
