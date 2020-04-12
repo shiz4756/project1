@@ -146,7 +146,7 @@
     }
   }
 
-   body,span,p{
+    body,span,p{
         padding:0;
         margin:0;
     }
@@ -224,12 +224,12 @@
     animation: span4 10s linear infinite;
   }
 
-    .wrap:hover .scroll{
+  .wrap:hover .scroll{
         animation-play-state: paused;
-    }
-    .wrap:hover p{
+  }
+  .wrap:hover p{
         animation-play-state: paused;
-      }
-      .wrap:hover span{
+  }
+  .wrap:hover span{
         animation-play-state: paused;
-     }
+  }
