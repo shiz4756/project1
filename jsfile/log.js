@@ -6,6 +6,6 @@ function validateForm () {
       return false;
     }
     else{
-        window.open("log-index.html");
+        window.open("logindex.html");
     }
   }
