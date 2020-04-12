@@ -8,6 +8,6 @@ function validateForm () {
     }
     else{
         alert('Successfully!')
-        window.open("index.html");
+        window.open("log-index.html");
     }
   }
